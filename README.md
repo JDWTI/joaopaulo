@@ -1,4 +1,17 @@
-## Oiii eu sou a João Paulo Souza, Desenvolvedor de software!
+# 👋 Olá, eu sou o João Paulo  
+ 
+🚀 Apaixonado por tecnologia, boas práticas de código e desenvolvimento de soluções eficientes e escaláveis.  
+📚 Sempre em busca de aprendizado contínuo e de novos desafios.  
+
+## 🚀 Tecnologias e Ferramentas  
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3  
+- **Backend:** .NET C#, Node.js  
+- **Outros:** Git, SQL, JasperReports  
+
+## 📌 Projetos em Destaque  
+
+- 🔹 [Portfolio Pessoal](#) – Este repositório.  
 
 
 <div style="display: inline_block"><br>
@@ -8,6 +21,12 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+          
+
 </div>
   
   ##
